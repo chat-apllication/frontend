@@ -1,0 +1,4 @@
+{
+    "apiUrl" : "http://localhost:3000/",
+    "accessToken": "token_goes_here"
+}

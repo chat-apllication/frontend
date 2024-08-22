@@ -1,0 +1,12 @@
+
+
+:host {
+    padding: 10px;
+    .navbar-brand{
+        display: flex;
+        gap: 5px;
+        .logo{
+            height: 30px;
+        }
+    }
+}
